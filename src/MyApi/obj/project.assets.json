@@ -447,11 +447,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/codespaces-blank/main/main.csproj",
-      "projectName": "main",
-      "projectPath": "/workspaces/codespaces-blank/main/main.csproj",
+      "projectUniqueName": "/workspaces/codespaces-blank/src/MyApi/MyApi.csproj",
+      "projectName": "MyApi",
+      "projectPath": "/workspaces/codespaces-blank/src/MyApi/MyApi.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/codespaces-blank/main/obj/",
+      "outputPath": "/workspaces/codespaces-blank/src/MyApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
